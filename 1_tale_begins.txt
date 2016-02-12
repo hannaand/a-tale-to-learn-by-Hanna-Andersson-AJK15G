@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Once upon a time in a land far away a tale of purple horses takes place.
+=======
+Once upon a time in a land far away a tale of purple horses takes place.
+>>>>>>> d00cb4a977586268f4900dd61b0112adc93fd1e3
